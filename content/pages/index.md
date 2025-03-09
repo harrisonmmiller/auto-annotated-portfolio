@@ -81,6 +81,9 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
-    text: |
-      test
+    text: |+
+      harrisonmmiller\@gmail.com
+
+      +1 (650) 996 8959
+
 ---
