@@ -100,26 +100,45 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >+
+          **2025**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   Various professional set experience-- production assistant
 
-          * fullstack at this startup
+          *   Management on student lead projects-- producer and production
+          manager
 
-          **2015**
 
-          * senior front-end at this place
+          **Late 2024**
 
-          **2013**
 
-          * intern developer at a big company
+          *   Various acting/production assistant roles on student lead projects
 
-          **2011**
 
-          * flipping burgers
+          **2024**
+
+
+          *   Shoreline Lake
+
+          *   Summer Camp Counselor (ages 4-12)
+
+
+          **2023**
+
+
+          *   Shoreline Lake American Bistro
+
+          *   Kitchen prep cook
+
+
+          **2021-2022**
+
+
+          *   Chipotle Mexican Grill
+
+          *   Grill and Kitchen Manager
+
         styles:
           self:
             textAlign: left
