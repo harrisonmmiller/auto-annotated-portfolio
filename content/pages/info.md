@@ -62,7 +62,7 @@ sections:
       - type: Label
         label: Production Assistant
       - type: Label
-        label: C++
+        label: Production Manager
       - type: Label
         label: Swift
   - type: DividerSection
