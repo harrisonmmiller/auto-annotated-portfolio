@@ -56,7 +56,7 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Spreadsheet
+        label: Adobe Premiere Pro
       - type: Label
         label: Netlify
       - type: Label
