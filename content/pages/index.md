@@ -81,9 +81,12 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
-    text: |+
-      harrisonmmiller\@gmail.com
+    text: |
+      SHOOT ME A MESSAGE
+
+
+
+      <harrisonmmiller@gmail.com>
 
       +1 (650) 996 8959
-
 ---
