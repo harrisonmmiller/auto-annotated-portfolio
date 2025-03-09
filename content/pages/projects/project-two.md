@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Tethered - Producer
+title: 'Tethered: Producer, Unit Production Manager'
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
