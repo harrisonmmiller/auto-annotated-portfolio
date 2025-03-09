@@ -52,7 +52,7 @@ sections:
       - type: Label
         label: Microsoft Excel
       - type: Label
-        label: React
+        label: Microsoft Outlook
       - type: Label
         label: Microsoft Office
       - type: Label
