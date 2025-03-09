@@ -13,12 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-
+    text: "Ever since I was a kid, I’ve been captivated by the complex power of storytelling through film. What started as a childhood fascination quickly became a lifelong pursuit, leading me to study the art of visual storytelling in college. Now, working in production on film sets has allowed me to continue to learn and refine my craft through hands-on experience.\_\n\nMy passion lies in bringing untold stories to life, whether that be through producing, directing, or managing. I thrive in fast-paced collaborative environments where every small choice contributes to a larger narrative. Great storytelling is not only about emotion and perspective but also about attention to detail– something I strive to incorporate into every project I take on.\_\n\nFrom independent short films or larger productions, I’m always looking for opportunities to push the creative boundaries and grow as a filmmaker. Whether I’m behind the camera, or collaborating with a team of talented creatives, my goal is to inspire and leave a lasting impact.\_\n\n"
     media:
       type: ImageBlock
       url: /images/about.jpg
