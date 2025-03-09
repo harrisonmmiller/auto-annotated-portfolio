@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Dark Passions - Production Assistant
+title: 'Dark Passions: Production Assistant'
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
