@@ -58,7 +58,7 @@ sections:
       - type: Label
         label: Adobe Premiere Pro
       - type: Label
-        label: Netlify
+        label: Adobe Photoshop
       - type: Label
         label: Pancakes
       - type: Label
