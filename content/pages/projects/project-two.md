@@ -7,8 +7,9 @@ client: Awesome client
 description: >-
   As a producer, I managed budgeting, securing equipment rentals, coordinating
   the cast and crew logistics, and overseeing the hiring process. Being able to
-  ensure smooth day to day operations while being able to solve problems quickly
-  on and off set, 
+  ensure smooth day to day operations, being able to solve problems quickly on
+  and off set, and overseeing all key production responsibilities  was a key
+  task for this role. 
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
