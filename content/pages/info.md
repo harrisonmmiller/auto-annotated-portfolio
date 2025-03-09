@@ -60,7 +60,7 @@ sections:
       - type: Label
         label: Adobe Photoshop
       - type: Label
-        label: Pancakes
+        label: Production Assistant
       - type: Label
         label: C++
       - type: Label
