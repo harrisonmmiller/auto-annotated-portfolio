@@ -125,18 +125,20 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2023-2025**
 
-          * ba computer sciense at a semi fancy school
+          *   University of California, Santa Barbara
+          *   BA in Film and Media Studies
 
-          **2014**
+          **2022-2023**
 
-          * react certificate somewhere
+          *   Foothill College, Los Altos, CA
 
-          **2011**
+          **2018-2022**
 
-          * my highschool
+          *   Los Altos High School
+
         styles:
           self:
             textAlign: left
