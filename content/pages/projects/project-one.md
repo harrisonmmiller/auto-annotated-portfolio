@@ -5,9 +5,9 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  As a production assistant on The Theraping, I worked closely with the camera
+  and art department to set dress, and setup equipment when it came time to
+  shoot. 
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
