@@ -6,8 +6,9 @@ date: '2021-10-15'
 client: Awesome client
 description: >-
   As a production assistant on The Theraping, I worked closely with the camera
-  and art department to set dress, and setup equipment when it came time to
-  shoot. 
+  and art department to set dress, and set up equipment when it came time to
+  shoot. Working on this project, I was in charge of confirming the logistics
+  behind the cast and crew schedules. 
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
