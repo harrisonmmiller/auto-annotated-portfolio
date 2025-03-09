@@ -6,7 +6,7 @@ date: '2021-12-20'
 client: Awesome client
 description: >-
   As a producer, I managed budgeting, securing equipment rentals, coordinating
-  the cast and crew logistics, and managed the hiring process. 
+  the cast and crew logistics, and overseeing the hiring process. 
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
