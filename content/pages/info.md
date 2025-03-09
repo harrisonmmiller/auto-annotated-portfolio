@@ -81,7 +81,9 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      harrisonmmiller\@gmail.com
+
+      +1 (650) 996 8959
   - type: DividerSection
     styles:
       self:
