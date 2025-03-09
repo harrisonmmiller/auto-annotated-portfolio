@@ -64,7 +64,7 @@ sections:
       - type: Label
         label: Production Manager
       - type: Label
-        label: Swift
+        label: Producer
   - type: DividerSection
     styles:
       self:
