@@ -36,7 +36,7 @@ sections:
     text: ''
     media:
       type: ImageBlock
-      url: /images/0O7A8895.JPEG
+      url: /images/IMG_3799.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
