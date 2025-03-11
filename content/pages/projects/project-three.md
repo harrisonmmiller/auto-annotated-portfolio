@@ -10,8 +10,4 @@ description: >-
   project, I assisted with equipment setup, coordinated talent and crew
   logistics, and worked directly under accomplished assistant director, Ted
   Leonard.
-media:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project image
 ---
