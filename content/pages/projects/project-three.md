@@ -10,14 +10,4 @@ description: >-
   project, I assisted with equipment setup, coordinated talent and crew
   logistics, and worked directly under accomplished assistant director, Ted
   Leonard.
-media:
-  type: VideoBlock
-  title: Title of the video
-  url: 'https://vimeo.com/1064591493?share=copy'
-  elementId: ''
-  autoplay: false
-  loop: false
-  muted: false
-  controls: true
-  aspectRatio: '16:9'
 ---
