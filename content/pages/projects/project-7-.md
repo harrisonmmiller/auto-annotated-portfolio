@@ -4,8 +4,9 @@ title: 'On The Vanishing Horizon: Actor, Production Assistant'
 date: '2024-06-01'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  As my first set experience, I was able to get my work done quickly and
+  efficiently. I assisted with the equipment-acquiring process as well as
+  working closely with the producer to manage on-set talent and crew.
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
