@@ -34,12 +34,6 @@ sections:
     type: HeroSection
     actions: []
     text: ''
-    media:
-      type: ImageBlock
-      url: /images/IMG_3799.jpg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
