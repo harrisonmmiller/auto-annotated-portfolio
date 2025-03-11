@@ -3,9 +3,7 @@ type: ProjectLayout
 title: 'Shattered Souls: Actor, Production Assistant'
 date: '2024-11-01'
 client: ''
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'I gained valuable knowledge on this quick 2 day set. I began '
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
