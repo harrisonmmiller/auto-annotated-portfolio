@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: Shattered Souls
 date: '2024-11-01'
 client: Awesome client
 description: >-
