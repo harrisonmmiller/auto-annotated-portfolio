@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Tethered: Producer, Unit Production Manager'
 colors: colors-a
-date: ''
+date: '2021-03-20'
 client: Awesome client
 description: >-
   As a producer, I managed budgeting, securing equipment rentals, coordinating
