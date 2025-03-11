@@ -7,7 +7,7 @@ description: >-
   As an actor and production assistant on this project, I was able to understand
   how to gain and give feedback as a director by observing closely the
   information given to me by my director, as well as general insight into the
-  world of a production assistant
+  world of a production assistant.
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
