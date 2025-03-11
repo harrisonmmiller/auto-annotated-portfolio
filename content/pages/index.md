@@ -49,6 +49,7 @@ sections:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-5.md
       - content/pages/projects/project-6.md
+      - content/pages/projects/project-7-.md
     styles:
       self:
         height: auto
