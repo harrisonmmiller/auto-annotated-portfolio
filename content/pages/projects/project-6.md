@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Shattered Souls
+title: 'Shattered Souls: Actor, Production Assistant'
 date: '2024-11-01'
 client: ''
 description: >-
