@@ -9,10 +9,6 @@ description: >-
   and art department to set dress, and set up equipment when it came time to
   shoot. Working on this project, I was in charge of confirming the logistics
   behind the cast and crew schedules. 
-featuredImage:
-  type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg1.jpg
