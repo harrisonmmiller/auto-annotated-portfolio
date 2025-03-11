@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: 'Down The Line: Actor, Production Assistant'
 date: '2024-07-01'
 client: ''
 description: >-
