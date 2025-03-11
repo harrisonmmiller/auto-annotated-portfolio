@@ -10,10 +10,6 @@ description: >-
   ensure smooth day-to-day operations, being able to solve problems quickly on
   and off set, and overseeing all key production responsibilities has been a key
   task for this role. 
-featuredImage:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg2.jpg
