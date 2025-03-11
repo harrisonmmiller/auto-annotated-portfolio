@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: This is a project title
 date: '2024-07-01'
-client: Awesome client
+client: ''
 description: >-
   As an actor and production assistant on this project, I understood how to gain
   and give feedback as a director by observing closely the information given to
